@@ -1,0 +1,14 @@
+baseURL = "https://www.example.com/"
+languageCode = "en-US"
+title = "Pioneers"
+theme = "hago"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "toml"
+disqusShortname = "YOUR_DISQUS_SHORT_NAME"
+googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
+
+
+[Params]
+  logo = "/images/logo1.jpg"
